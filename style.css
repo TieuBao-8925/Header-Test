@@ -298,4 +298,9 @@ input {
   text-overflow: ellipsis;
 }
 
+.location .delivery-zone-link {
+  display: flex;
+  text-decoration: none;
+}
+
 /* ============================== */
